@@ -1,0 +1,197 @@
+create database Last;
+
+use Last;
+
+
+
+create table Seller 
+(
+S_ID            int  not null references Item (ItId),
+S_Name          Varchar(600)  not null,
+S_Address       varchar(200) not null,
+S_City          Varchar(501) not null,
+S_Phone         char(109)
+);
+
+
+create table Supplier
+ (
+ SupplierID      int Identity primary key  not null,
+ Supp_Name       varchar(200) not null,
+ Supp_country    varchar(50) not null ,
+ Supp_Email      varchar(100) unique  not null                            ,
+ Supp_Phone      char(109) unique   not null,
+ Supp_Package    varchar(250) not null,
+ ItCat     varchar(250)  not null,
+
+ );
+
+ 
+ create table Orders 
+ (
+ OrderID           int  not null references  Supplier (SupplierID) ,
+ EmpId               int  not null references Employee (EmpId),
+ ItName             varchar(250)  not null,
+ ItQty              varchar(250)  not null,
+ OrderDate         datetime2      default getdate() not null, 
+ Or_ShipDate       datetime2      default getdate() null, 
+ Supp_Name       varchar(200) null
+
+ );
+
+
+
+
+
+ Create table Store 
+ (
+ SupplierID    int  not null References Supplier (SupplierID)  ,
+ ItId    int    not null references Item (ItId)
+
+ );
+
+
+ Create table Category 
+ (
+ Cat_ID    int  not null references Item (ItId),
+ Cat_Name   Varchar(250) not null,
+ );
+
+
+
+CREATE TABLE Employee
+(
+EmpId       int primary key  not null,
+EmpName     varchar(250)  not null,
+EmpPhone    varchar (250) not null,
+EmpAdd      varchar (250) not null,
+EmpPass      varchar (250) not null,
+EmpSalary     Char(19) Not null,
+
+);
+
+
+create table Item
+(
+ItId    int Primary key identity  not null ,
+ItName    varchar(250)  not null,
+ItQty      varchar(250)  not null,
+ItPrice      varchar(250)  not null,
+ItCat     varchar(250)  not null,
+Supp_Name       varchar(200) null
+
+);
+
+
+create table Bill
+(
+BId   int  not null ,
+EId   int  identity references Employee (EmpId),
+EName   varchar (250) not null,
+ClientName    varchar(250)  not null,
+Amount    int not null
+);
+
+
+create database ugudanbayntii;
+
+use ugudanbayntii;
+
+
+
+create table Seller 
+(
+S_ID         int not null references Orders  (OrderID  ),   
+S_Name          Varchar(600)  not null,
+S_Address       varchar(200) not null,
+S_City          Varchar(501) not null,
+S_Phone         char(109)
+);
+drop Database ugudanbayn
+
+create table Supplier
+ (
+ SupplierID      int Identity primary key  not null,
+ Supp_Name       varchar(200) not null,
+ Supp_country    varchar(50) not null ,
+ Supp_Email      varchar(100) unique  not null                            ,
+ Supp_Phone      char(109) unique   not null,
+ Supp_Package    varchar(250) not null,
+ ItCat     varchar(250)  not null,
+
+ );
+
+ 
+ create table Orders 
+ (
+ OrderID           int Primary key not null,
+ ItId              int  not null references Item (ItId),
+ ItName             varchar(250)  not null,
+ ItQty              varchar(250)  not null,
+ OrderDate         datetime2      default getdate() not null, 
+ Or_ShipDate       datetime2      default getdate() null, 
+ Supp_Name       varchar(200) null
+
+ );
+
+
+
+
+
+ Create table Store 
+ (
+ SupplierID    int  not null References Supplier (SupplierID)  ,
+ ItId    int    not null references Item (ItId)
+
+ );
+
+
+ Create table Category 
+ (
+ Cat_ID    int  not null references Item (ItId),
+ Cat_Name   Varchar(250) not null,
+ );
+
+
+
+CREATE TABLE Employee
+(
+EmpId       int primary key  not null,
+EmpName     varchar(250)  not null,
+EmpPhone    varchar (250) not null,
+EmpAdd      varchar (250) not null,
+EmpPass      varchar (250) not null,
+EmpSalary     Char(19) Not null,
+
+);
+
+
+create table Item
+(
+ItId    int Primary key identity  not null ,
+ItName    varchar(250)  not null,
+ItQty      varchar(250)  not null,
+ItPrice      varchar(250)  not null,
+ItCat     varchar(250)  not null,
+Supp_Name       varchar(200) null
+
+);
+
+
+create table Bill
+(
+BId   int  not null references Item (ItId),
+EId   int  identity references Employee (EmpId),
+EName   varchar (250) not null,
+ClientName    varchar(250)  not null,
+Amount    int not null
+);
+
+
+
+
+
+
+
+
+

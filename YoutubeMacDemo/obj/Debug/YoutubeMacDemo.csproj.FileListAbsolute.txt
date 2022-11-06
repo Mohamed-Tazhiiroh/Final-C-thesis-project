@@ -1,0 +1,37 @@
+C:\Users\pLoTo\source\repos\YoutubeMacDemo\YoutubeMacDemo\bin\Debug\YoutubeMacDemo.exe.config
+C:\Users\pLoTo\source\repos\YoutubeMacDemo\YoutubeMacDemo\bin\Debug\YoutubeMacDemo.exe
+C:\Users\pLoTo\source\repos\YoutubeMacDemo\YoutubeMacDemo\bin\Debug\YoutubeMacDemo.pdb
+C:\Users\pLoTo\source\repos\YoutubeMacDemo\YoutubeMacDemo\bin\Debug\Guna.UI2.dll
+C:\Users\pLoTo\source\repos\YoutubeMacDemo\YoutubeMacDemo\obj\Debug\YoutubeMacDemo.csprojAssemblyReference.cache
+C:\Users\pLoTo\source\repos\YoutubeMacDemo\YoutubeMacDemo\obj\Debug\YoutubeMacDemo.Form1.resources
+C:\Users\pLoTo\source\repos\YoutubeMacDemo\YoutubeMacDemo\obj\Debug\YoutubeMacDemo.Properties.Resources.resources
+C:\Users\pLoTo\source\repos\YoutubeMacDemo\YoutubeMacDemo\obj\Debug\YoutubeMacDemo.csproj.GenerateResource.cache
+C:\Users\pLoTo\source\repos\YoutubeMacDemo\YoutubeMacDemo\obj\Debug\YoutubeMacDemo.csproj.CoreCompileInputs.cache
+C:\Users\pLoTo\source\repos\YoutubeMacDemo\YoutubeMacDemo\obj\Debug\YoutubeMacDemo.csproj.CopyComplete
+C:\Users\pLoTo\source\repos\YoutubeMacDemo\YoutubeMacDemo\obj\Debug\YoutubeMacDemo.exe
+C:\Users\pLoTo\source\repos\YoutubeMacDemo\YoutubeMacDemo\obj\Debug\YoutubeMacDemo.pdb
+C:\Users\pLoTo\source\repos\YoutubeMacDemo\YoutubeMacDemo\obj\Debug\YoutubeMacDemo.UC_Dashboard.resources
+C:\Users\Mohamed Tazhiiroh\Desktop\YoutubeMacDemo\YoutubeMacDemo\bin\Debug\YoutubeMacDemo.exe.config
+C:\Users\Mohamed Tazhiiroh\Desktop\YoutubeMacDemo\YoutubeMacDemo\obj\Debug\YoutubeMacDemo.exe
+C:\Users\Mohamed Tazhiiroh\Desktop\YoutubeMacDemo\YoutubeMacDemo\obj\Debug\YoutubeMacDemo.pdb
+C:\Users\Mohamed Tazhiiroh\Desktop\YoutubeMacDemo\YoutubeMacDemo\bin\Debug\YoutubeMacDemo.exe
+C:\Users\Mohamed Tazhiiroh\Desktop\YoutubeMacDemo\YoutubeMacDemo\bin\Debug\YoutubeMacDemo.pdb
+C:\Users\Mohamed Tazhiiroh\Desktop\YoutubeMacDemo\YoutubeMacDemo\obj\Debug\YoutubeMacDemo.csprojResolveAssemblyReference.cache
+C:\Users\Mohamed Tazhiiroh\Desktop\YoutubeMacDemo\YoutubeMacDemo\obj\Debug\YoutubeMacDemo.Form1.resources
+C:\Users\Mohamed Tazhiiroh\Desktop\YoutubeMacDemo\YoutubeMacDemo\obj\Debug\YoutubeMacDemo.Properties.Resources.resources
+C:\Users\Mohamed Tazhiiroh\Desktop\YoutubeMacDemo\YoutubeMacDemo\obj\Debug\YoutubeMacDemo.UC_Dashboard.resources
+C:\Users\Mohamed Tazhiiroh\Desktop\YoutubeMacDemo\YoutubeMacDemo\obj\Debug\YoutubeMacDemo.csproj.GenerateResource.Cache
+C:\Users\Mohamed Tazhiiroh\Desktop\YoutubeMacDemo\YoutubeMacDemo\bin\Debug\Guna.UI.dll
+C:\Users\Mohamed Tazhiiroh\Desktop\YoutubeMacDemo\YoutubeMacDemo\obj\Debug\YoutubeMacDemo.Login.resources
+C:\Users\Mohamed Tazhiiroh\Desktop\YoutubeMacDemo\YoutubeMacDemo\obj\Debug\YoutubeMacDemo.Splash.resources
+C:\Users\Mohamed Tazhiiroh\Desktop\YoutubeMacDemo\YoutubeMacDemo\obj\Debug\YoutubeMacDemo.Billing.resources
+C:\Users\Mohamed Tazhiiroh\Desktop\YoutubeMacDemo\YoutubeMacDemo\obj\Debug\YoutubeMacDemo.Employee.resources
+C:\Users\Mohamed Tazhiiroh\Desktop\YoutubeMacDemo\YoutubeMacDemo\obj\Debug\YoutubeMacDemo.Items.resources
+C:\Users\Mohamed Tazhiiroh\Desktop\YoutubeMacDemo\YoutubeMacDemo\obj\Debug\YoutubeMacDemo.Category.resources
+C:\Users\Mohamed Tazhiiroh\Desktop\YoutubeMacDemo\YoutubeMacDemo\obj\Debug\YoutubeMacDemo.Seller.resources
+C:\Users\Mohamed Tazhiiroh\Desktop\YoutubeMacDemo\YoutubeMacDemo\obj\Debug\YoutubeMacDemo.Supplier.resources
+C:\Users\Mohamed Tazhiiroh\Desktop\YoutubeMacDemo\YoutubeMacDemo\obj\Debug\YoutubeMacDemo.Orders.resources
+C:\Users\Mohamed Tazhiiroh\Desktop\YoutubeMacDemo\YoutubeMacDemo\obj\Debug\YoutubeMacDemo.Cus_Rep.resources
+C:\Users\Mohamed Tazhiiroh\Desktop\YoutubeMacDemo\YoutubeMacDemo\obj\Debug\YoutubeMacDemo.Order_Rep.resources
+C:\Users\Mohamed Tazhiiroh\Desktop\YoutubeMacDemo\YoutubeMacDemo\obj\Debug\YoutubeMacDemo.Cus_Reporting.resources
+C:\Users\Mohamed Tazhiiroh\Desktop\YoutubeMacDemo\YoutubeMacDemo\obj\Debug\YoutubeMacDemo.Adminlogin.resources
